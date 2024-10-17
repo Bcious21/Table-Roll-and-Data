@@ -1,0 +1,22 @@
+body{
+    background-color:aqua;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.6em;
+}
+
+.box-2{
+    background-color: bisque;
+}
+.box-3{
+    background-color: blueviolet;
+}
+
+.box-4{
+    background-color: yellow;
+}
+.box-5{
+    background-color: red;
+}
